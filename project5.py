@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  5 14:07:56 2022
-
-@author: kcruz29
-"""
 
 #Kevin Cruz
 #CS 113
